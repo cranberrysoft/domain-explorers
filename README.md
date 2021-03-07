@@ -8,7 +8,7 @@ Jest to moje rozwiazanie do zadania w ramach Domain Explorers https://github.com
 
 #### Wersja początkowa
 
-Aby pobrać pełną wersję początkową boarda, kliknij [tutaj](https://github.com/mariuszgil/domain-explorers/blob/master/assets/images/big-picture-init.jpg). 
+Aby pobrać pełną wersję początkową boarda do zadania, kliknij [tutaj](https://github.com/mariuszgil/domain-explorers/blob/master/assets/images/big-picture-init.jpg). 
 
 #### Wersja uzupełniona we własnym zakresie
 
